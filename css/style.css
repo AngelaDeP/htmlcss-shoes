@@ -69,3 +69,11 @@ nav ul li a:hover {
 #green {
     background-color: rgb(1, 124, 1);
 }
+
+#yellow {
+    background-color: rgb(255, 255, 0);
+}
+
+#yellow .content {
+    color: rgb(0, 128, 0);
+}
